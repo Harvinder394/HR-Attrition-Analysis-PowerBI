@@ -1,0 +1,1471 @@
+EmployeeNumber,JobRole,Department,JobLevel,BusinessTravel
+1,Process Associate,Operations,2,Travel_Rarely
+2,Research Scientist,IT,2,Travel_Frequently
+4,Software Engineer,IT,1,Travel_Rarely
+5,Research Scientist,IT,1,Travel_Frequently
+7,Software Engineer,IT,1,Travel_Rarely
+8,Software Engineer,IT,1,Travel_Frequently
+10,Software Engineer,IT,1,Travel_Rarely
+11,Software Engineer,IT,1,Travel_Rarely
+12,IT Director,IT,3,Travel_Frequently
+13,Developer,IT,2,Travel_Rarely
+14,Software Engineer,IT,1,Travel_Rarely
+15,Software Engineer,IT,2,Travel_Rarely
+16,Research Scientist,IT,1,Travel_Rarely
+18,Software Engineer,IT,1,Travel_Rarely
+19,Software Engineer,IT,1,Travel_Rarely
+20,IT Director,IT,3,Travel_Rarely
+21,Research Scientist,IT,1,Travel_Rarely
+22,Software Engineer,IT,1,Non-Travel
+23,Manager,Operations,4,Travel_Rarely
+24,Research Scientist,IT,1,Travel_Rarely
+26,IT Director,IT,2,Non-Travel
+27,Process Associate II,Operations,1,Travel_Rarely
+28,Research Director,IT,3,Travel_Rarely
+30,Research Scientist,IT,1,Travel_Rarely
+31,Research Scientist,IT,1,Travel_Rarely
+32,Manager,IT,5,Travel_Rarely
+33,Research Scientist,IT,1,Travel_Frequently
+35,Process Associate,Operations,2,Travel_Rarely
+36,Developer,IT,3,Travel_Rarely
+38,Manager,Operations,5,Travel_Rarely
+39,Software Engineer,IT,1,Travel_Rarely
+40,Developer,IT,2,Travel_Rarely
+41,Software Engineer,IT,1,Travel_Rarely
+42,Process Associate II,Operations,2,Travel_Rarely
+45,Research Scientist,IT,1,Travel_Rarely
+46,Research Scientist,IT,1,Travel_Rarely
+47,Process Associate II,Operations,1,Travel_Rarely
+49,Process Associate II,Operations,1,Travel_Rarely
+51,Research Scientist,IT,1,Travel_Rarely
+52,Process Associate,Operations,2,Travel_Frequently
+53,Software Engineer,IT,1,Travel_Rarely
+54,Software Engineer,IT,1,Travel_Rarely
+55,Software Engineer,IT,1,Travel_Rarely
+56,Process Associate,Operations,3,Travel_Frequently
+57,Software Engineer,IT,2,Travel_Frequently
+58,Research Director,IT,5,Travel_Rarely
+60,Process Associate,Operations,2,Non-Travel
+61,Research Scientist,IT,1,Travel_Rarely
+62,Process Associate,Operations,2,Travel_Frequently
+63,Software Engineer,IT,1,Travel_Rarely
+64,Software Engineer,IT,3,Travel_Rarely
+65,Software Engineer,IT,1,Travel_Rarely
+68,Process Associate,Operations,2,Travel_Rarely
+70,Developer,IT,3,Non-Travel
+72,Process Associate,Operations,2,Travel_Rarely
+73,Research Director,IT,3,Travel_Frequently
+74,Process Associate,Operations,3,Travel_Frequently
+75,Software Engineer,IT,1,Travel_Rarely
+76,Software Engineer,IT,2,Travel_Rarely
+77,IT Director,IT,2,Travel_Rarely
+78,IT Director,IT,2,Travel_Rarely
+79,Software Engineer,IT,2,Travel_Frequently
+80,Research Director,IT,5,Travel_Rarely
+81,Process Associate,Operations,3,Travel_Rarely
+83,Developer,IT,3,Travel_Rarely
+84,Manager,IT,4,Travel_Rarely
+85,IT Director,IT,2,Travel_Frequently
+86,Research Scientist,IT,3,Travel_Rarely
+88,Research Scientist,IT,1,Travel_Frequently
+90,Research Scientist,IT,1,Travel_Rarely
+91,Process Associate,Operations,2,Travel_Frequently
+94,Research Scientist,IT,1,Travel_Rarely
+95,Research Scientist,IT,1,Travel_Rarely
+96,Research Scientist,IT,2,Travel_Rarely
+97,Software Engineer,IT,1,Travel_Rarely
+98,IT Director,IT,2,Travel_Rarely
+100,Process Associate,Operations,2,Travel_Rarely
+101,Research Director,IT,3,Travel_Rarely
+102,Research Director,IT,3,Travel_Rarely
+103,Human Resources,HR,2,Travel_Rarely
+104,Software Engineer,IT,2,Travel_Rarely
+105,Research Scientist,IT,1,Travel_Rarely
+106,Process Associate,Operations,3,Travel_Rarely
+107,Research Scientist,IT,2,Non-Travel
+110,IT Director,IT,2,Travel_Rarely
+112,IT Director,IT,3,Travel_Rarely
+113,Process Associate II,Operations,1,Travel_Rarely
+116,Software Engineer,IT,1,Travel_Rarely
+117,Developer,IT,2,Travel_Rarely
+118,Process Associate,Operations,3,Travel_Rarely
+119,Developer,IT,4,Travel_Frequently
+120,Process Associate,Operations,2,Travel_Rarely
+121,Process Associate,Operations,2,Travel_Rarely
+124,Developer,IT,3,Travel_Frequently
+125,Process Associate,Operations,2,Travel_Rarely
+126,Research Director,IT,3,Travel_Rarely
+128,Process Associate,Operations,2,Travel_Rarely
+129,Process Associate,Operations,2,Non-Travel
+131,Process Associate,Operations,4,Travel_Rarely
+132,Software Engineer,IT,2,Non-Travel
+133,Human Resources,HR,1,Travel_Rarely
+134,Research Scientist,IT,1,Travel_Rarely
+137,Software Engineer,IT,1,Travel_Frequently
+138,Research Scientist,IT,2,Travel_Rarely
+139,Developer,IT,2,Non-Travel
+140,Manager,HR,5,Non-Travel
+141,Research Director,IT,5,Travel_Frequently
+142,Process Associate,Operations,2,Travel_Rarely
+143,Research Scientist,IT,1,Travel_Rarely
+144,Software Engineer,IT,1,Travel_Rarely
+145,Developer,IT,3,Travel_Frequently
+147,Software Engineer,IT,2,Travel_Frequently
+148,Manager,HR,4,Non-Travel
+150,Software Engineer,IT,1,Travel_Rarely
+151,Research Scientist,IT,2,Travel_Rarely
+152,Process Associate,Operations,3,Travel_Rarely
+153,Manager,IT,3,Travel_Rarely
+154,Process Associate,Operations,3,Travel_Frequently
+155,Software Engineer,IT,1,Travel_Rarely
+158,Manager,Operations,4,Travel_Frequently
+159,Research Scientist,IT,1,Travel_Frequently
+160,Process Associate,Operations,2,Non-Travel
+161,Research Scientist,IT,1,Travel_Rarely
+162,Research Director,IT,5,Travel_Rarely
+163,Process Associate,Operations,2,Travel_Rarely
+164,Research Scientist,IT,1,Travel_Rarely
+165,Developer,IT,3,Travel_Rarely
+167,Process Associate II,Operations,1,Travel_Rarely
+169,Software Engineer,IT,1,Travel_Rarely
+170,IT Director,IT,2,Travel_Rarely
+171,Research Scientist,IT,1,Travel_Frequently
+174,Process Associate,Operations,3,Travel_Frequently
+175,Process Associate,Operations,2,Travel_Rarely
+176,Process Associate,Operations,3,Travel_Rarely
+177,Human Resources,HR,1,Travel_Rarely
+178,IT Director,IT,2,Travel_Rarely
+179,IT Director,IT,3,Travel_Frequently
+182,Process Associate,Operations,2,Travel_Rarely
+183,Process Associate,Operations,2,Travel_Rarely
+184,Human Resources,HR,2,Travel_Rarely
+190,Software Engineer,IT,1,Travel_Rarely
+192,Research Scientist,IT,1,Travel_Rarely
+193,Research Scientist,IT,2,Travel_Rarely
+194,Research Scientist,IT,1,Travel_Rarely
+195,Process Associate,Operations,2,Travel_Frequently
+197,Research Scientist,IT,1,Travel_Rarely
+198,Software Engineer,IT,1,Travel_Rarely
+199,Manager,IT,4,Travel_Frequently
+200,Software Engineer,IT,1,Travel_Rarely
+201,Software Engineer,IT,1,Travel_Rarely
+202,Research Scientist,IT,2,Travel_Frequently
+204,Process Associate,Operations,3,Travel_Rarely
+205,Process Associate II,Operations,2,Travel_Rarely
+206,Software Engineer,IT,2,Travel_Rarely
+207,Process Associate,Operations,3,Travel_Frequently
+208,IT Director,IT,2,Non-Travel
+211,IT Director,IT,2,Travel_Rarely
+214,Research Scientist,IT,1,Travel_Rarely
+215,Process Associate,Operations,3,Travel_Rarely
+216,Process Associate II,Operations,1,Travel_Frequently
+217,Research Scientist,IT,1,Travel_Rarely
+218,Research Scientist,IT,1,Non-Travel
+221,Research Scientist,IT,1,Travel_Rarely
+223,Developer,IT,3,Travel_Rarely
+224,Research Scientist,IT,1,Non-Travel
+226,Manager,IT,5,Travel_Rarely
+227,Research Scientist,IT,1,Travel_Rarely
+228,Process Associate,Operations,3,Travel_Rarely
+230,Process Associate,Operations,2,Travel_Rarely
+231,Research Scientist,IT,1,Travel_Rarely
+233,Research Scientist,IT,1,Travel_Rarely
+235,Process Associate II,Operations,1,Travel_Frequently
+238,Software Engineer,IT,1,Travel_Frequently
+239,Software Engineer,IT,2,Non-Travel
+240,Process Associate,Operations,2,Travel_Rarely
+241,Research Scientist,IT,1,Travel_Rarely
+242,Research Scientist,IT,1,Travel_Rarely
+243,Software Engineer,IT,1,Travel_Rarely
+244,Process Associate,Operations,3,Travel_Rarely
+245,Software Engineer,IT,1,Travel_Rarely
+246,Research Scientist,IT,1,Travel_Rarely
+247,Research Scientist,IT,1,Travel_Rarely
+248,Process Associate II,Operations,1,Travel_Rarely
+249,Software Engineer,IT,1,Travel_Rarely
+250,IT Director,IT,2,Travel_Rarely
+252,Research Scientist,IT,1,Travel_Rarely
+253,Manager,IT,5,Travel_Rarely
+254,Research Director,IT,5,Travel_Rarely
+256,IT Director,IT,2,Travel_Frequently
+258,Developer,IT,4,Travel_Rarely
+259,Manager,IT,5,Travel_Rarely
+260,Research Scientist,IT,1,Travel_Rarely
+261,IT Director,IT,2,Travel_Rarely
+262,Research Scientist,IT,1,Non-Travel
+264,Manager,IT,4,Non-Travel
+267,Research Scientist,IT,1,Travel_Rarely
+269,Software Engineer,IT,2,Travel_Frequently
+270,IT Director,IT,2,Non-Travel
+271,IT Director,IT,2,Travel_Rarely
+273,IT Director,IT,2,Travel_Rarely
+274,IT Director,IT,2,Travel_Frequently
+275,IT Director,IT,2,Non-Travel
+277,Research Scientist,IT,1,Travel_Frequently
+281,Software Engineer,IT,2,Travel_Rarely
+282,Developer,IT,2,Travel_Rarely
+283,Process Associate,Operations,3,Travel_Rarely
+284,Research Scientist,IT,1,Travel_Rarely
+286,Software Engineer,IT,1,Travel_Frequently
+287,Developer,IT,2,Non-Travel
+288,Developer,IT,3,Travel_Rarely
+291,Process Associate,Operations,3,Travel_Rarely
+292,IT Director,IT,3,Non-Travel
+293,Process Associate,Operations,2,Travel_Frequently
+296,Research Director,IT,3,Travel_Rarely
+297,Research Scientist,IT,1,Travel_Rarely
+298,Manager,Operations,3,Travel_Rarely
+299,Process Associate,Operations,2,Travel_Frequently
+300,Research Scientist,IT,1,Travel_Rarely
+302,Process Associate,Operations,3,Non-Travel
+303,Process Associate,Operations,2,Travel_Rarely
+304,Software Engineer,IT,2,Travel_Rarely
+305,Research Scientist,IT,1,Travel_Rarely
+306,Research Director,IT,3,Travel_Frequently
+307,Process Associate,Operations,3,Travel_Rarely
+308,IT Director,IT,2,Non-Travel
+309,Research Scientist,IT,1,Travel_Rarely
+311,Process Associate II,Operations,1,Travel_Frequently
+312,Process Associate,Operations,3,Travel_Frequently
+314,Process Associate,Operations,3,Travel_Frequently
+315,Research Scientist,IT,1,Travel_Rarely
+316,Software Engineer,IT,1,Travel_Rarely
+319,Manager,IT,5,Travel_Rarely
+321,Human Resources,HR,1,Travel_Rarely
+323,Manager,Operations,5,Travel_Rarely
+325,Software Engineer,IT,1,Travel_Rarely
+327,Manager,Operations,4,Travel_Rarely
+328,Software Engineer,IT,1,Travel_Rarely
+329,Manager,Operations,5,Non-Travel
+330,Process Associate II,Operations,1,Travel_Rarely
+331,Software Engineer,IT,1,Travel_Rarely
+332,Software Engineer,IT,1,Travel_Rarely
+333,Process Associate,Operations,2,Non-Travel
+334,Research Scientist,IT,2,Travel_Rarely
+335,Research Scientist,IT,2,Travel_Rarely
+336,Manager,IT,5,Travel_Rarely
+337,Research Director,IT,3,Travel_Frequently
+338,Research Scientist,IT,1,Travel_Rarely
+339,IT Director,IT,2,Travel_Rarely
+340,Research Scientist,IT,1,Travel_Rarely
+341,IT Director,IT,2,Travel_Frequently
+342,IT Director,IT,3,Travel_Frequently
+343,Developer,IT,3,Travel_Frequently
+346,Research Scientist,IT,1,Travel_Rarely
+347,Research Scientist,IT,2,Travel_Rarely
+349,Process Associate,Operations,2,Travel_Rarely
+350,IT Director,IT,2,Travel_Rarely
+351,Software Engineer,IT,1,Travel_Rarely
+352,Research Director,IT,5,Travel_Rarely
+353,Research Scientist,IT,1,Travel_Rarely
+355,Software Engineer,IT,1,Travel_Frequently
+359,Software Engineer,IT,1,Travel_Frequently
+361,Process Associate,Operations,2,Non-Travel
+362,Software Engineer,IT,2,Travel_Rarely
+363,Manager,Operations,4,Travel_Rarely
+364,Software Engineer,IT,1,Travel_Rarely
+366,Process Associate,Operations,2,Travel_Rarely
+367,Developer,IT,2,Travel_Rarely
+369,Developer,IT,2,Non-Travel
+372,Developer,IT,4,Travel_Rarely
+373,Software Engineer,IT,1,Travel_Rarely
+374,Manager,IT,5,Travel_Rarely
+376,Manager,IT,3,Non-Travel
+377,Research Scientist,IT,1,Travel_Rarely
+378,Process Associate,Operations,2,Travel_Rarely
+379,Research Scientist,IT,1,Travel_Rarely
+380,Research Director,IT,3,Non-Travel
+381,Manager,IT,3,Travel_Rarely
+382,Process Associate,Operations,2,Travel_Rarely
+384,IT Director,IT,2,Travel_Frequently
+385,Research Director,IT,5,Travel_Rarely
+386,Research Director,IT,4,Travel_Rarely
+387,Process Associate,Operations,2,Travel_Rarely
+388,Process Associate,Operations,2,Travel_Frequently
+389,Software Engineer,IT,2,Travel_Rarely
+390,Developer,IT,2,Travel_Frequently
+391,Research Scientist,IT,1,Travel_Rarely
+392,Software Engineer,IT,1,Travel_Frequently
+393,Developer,IT,2,Travel_Rarely
+394,Software Engineer,IT,1,Travel_Rarely
+395,Research Scientist,IT,1,Travel_Rarely
+396,Research Director,IT,5,Travel_Frequently
+397,Research Scientist,IT,2,Travel_Rarely
+399,Process Associate II,Operations,1,Travel_Frequently
+401,Process Associate,Operations,2,Travel_Rarely
+403,Research Scientist,IT,1,Travel_Frequently
+404,Process Associate,Operations,4,Travel_Frequently
+405,Software Engineer,IT,1,Travel_Rarely
+406,Process Associate,Operations,3,Travel_Rarely
+407,Software Engineer,IT,1,Travel_Frequently
+408,IT Director,IT,2,Travel_Rarely
+410,Manager,Operations,4,Travel_Rarely
+411,Process Associate II,Operations,1,Travel_Rarely
+412,Developer,IT,2,Travel_Rarely
+416,Process Associate,Operations,2,Travel_Rarely
+417,Developer,IT,3,Travel_Rarely
+419,Software Engineer,IT,2,Non-Travel
+420,Process Associate,Operations,2,Travel_Rarely
+421,Research Director,IT,3,Travel_Rarely
+422,Developer,IT,2,Non-Travel
+423,Research Scientist,IT,1,Travel_Rarely
+424,Human Resources,HR,2,Travel_Rarely
+425,Software Engineer,IT,3,Travel_Frequently
+426,Research Scientist,IT,1,Travel_Rarely
+428,Manager,IT,3,Travel_Frequently
+429,Manager,IT,4,Travel_Rarely
+430,Software Engineer,IT,1,Travel_Frequently
+431,Developer,IT,4,Travel_Rarely
+433,Research Scientist,IT,2,Travel_Rarely
+434,Research Scientist,IT,1,Travel_Rarely
+436,Process Associate,Operations,2,Travel_Rarely
+437,Process Associate,Operations,2,Travel_Rarely
+438,Process Associate,Operations,2,Travel_Rarely
+439,Research Scientist,IT,2,Travel_Rarely
+440,Research Scientist,IT,1,Travel_Rarely
+441,Research Scientist,IT,2,Travel_Rarely
+442,IT Director,IT,3,Travel_Frequently
+444,Manager,IT,5,Travel_Frequently
+445,Process Associate,Operations,2,Travel_Rarely
+446,Process Associate,Operations,2,Travel_Frequently
+447,Research Director,IT,5,Travel_Rarely
+448,Software Engineer,IT,2,Travel_Frequently
+449,Process Associate,Operations,2,Non-Travel
+450,Research Scientist,IT,2,Travel_Frequently
+451,Developer,IT,3,Travel_Rarely
+452,Research Scientist,IT,2,Travel_Rarely
+453,Process Associate,Operations,2,Travel_Rarely
+454,Software Engineer,IT,1,Travel_Rarely
+455,Software Engineer,IT,1,Travel_Rarely
+456,Process Associate,Operations,2,Travel_Rarely
+458,Process Associate,Operations,2,Travel_Rarely
+460,IT Director,IT,2,Travel_Rarely
+461,Research Director,IT,3,Travel_Rarely
+462,IT Director,IT,3,Travel_Rarely
+463,Process Associate,Operations,2,Travel_Rarely
+464,IT Director,IT,3,Travel_Rarely
+465,Research Scientist,IT,1,Travel_Rarely
+466,IT Director,IT,2,Travel_Rarely
+467,Process Associate II,Operations,2,Travel_Frequently
+468,Research Director,IT,4,Travel_Rarely
+469,Process Associate,Operations,2,Non-Travel
+470,Human Resources,HR,1,Travel_Rarely
+471,Software Engineer,IT,1,Travel_Rarely
+473,Manager,Operations,3,Travel_Rarely
+474,Research Scientist,IT,2,Travel_Rarely
+475,Process Associate,Operations,2,Non-Travel
+476,Process Associate,Operations,2,Travel_Rarely
+477,Developer,IT,2,Travel_Rarely
+478,Process Associate II,Operations,1,Travel_Frequently
+479,Process Associate,Operations,2,Non-Travel
+481,Process Associate,Operations,3,Travel_Frequently
+482,Developer,IT,2,Travel_Rarely
+483,Software Engineer,IT,1,Travel_Rarely
+484,Process Associate II,Operations,1,Non-Travel
+485,Process Associate II,Operations,1,Travel_Rarely
+486,Software Engineer,IT,1,Travel_Rarely
+487,IT Director,IT,2,Non-Travel
+488,Process Associate,Operations,2,Travel_Frequently
+491,Developer,IT,3,Travel_Rarely
+492,Process Associate,Operations,2,Travel_Rarely
+493,Research Scientist,IT,1,Travel_Rarely
+494,Process Associate II,Operations,1,Travel_Rarely
+495,Research Scientist,IT,1,Travel_Rarely
+496,Developer,IT,2,Travel_Rarely
+497,Software Engineer,IT,1,Travel_Rarely
+498,Process Associate,Operations,2,Travel_Rarely
+499,QA Tester,IT,3,Travel_Rarely
+500,Process Associate,Operations,2,Travel_Rarely
+501,Research Scientist,IT,1,Travel_Rarely
+502,Process Associate,Operations,2,Non-Travel
+505,Manager,IT,4,Travel_Rarely
+507,Process Associate,Operations,2,Travel_Rarely
+508,Process Associate II,Operations,1,Travel_Rarely
+510,Research Scientist,IT,1,Travel_Frequently
+511,Research Scientist,IT,1,Travel_Rarely
+513,Process Associate,Operations,3,Travel_Rarely
+514,Research Scientist,IT,1,Travel_Frequently
+515,Software Engineer,IT,1,Travel_Rarely
+516,Process Associate,Operations,2,Travel_Rarely
+517,Software Engineer,IT,1,Travel_Rarely
+518,IT Director,IT,2,Travel_Rarely
+520,Research Director,IT,4,Travel_Rarely
+521,Software Engineer,IT,2,Travel_Rarely
+522,Research Director,IT,5,Travel_Rarely
+523,Process Associate,Operations,2,Non-Travel
+524,IT Director,IT,2,Travel_Rarely
+525,Software Engineer,IT,1,Travel_Frequently
+526,QA Tester,IT,2,Travel_Rarely
+527,Process Associate,Operations,2,Travel_Rarely
+529,Research Scientist,IT,2,Non-Travel
+530,Software Engineer,IT,1,Travel_Rarely
+531,Manager,IT,5,Travel_Frequently
+532,Process Associate,Operations,4,Travel_Frequently
+533,Process Associate,Operations,2,Travel_Rarely
+534,Process Associate,Operations,3,Travel_Rarely
+536,Software Engineer,IT,2,Travel_Rarely
+538,Software Engineer,IT,1,Travel_Rarely
+543,IT Director,IT,3,Travel_Rarely
+544,Research Scientist,IT,1,Travel_Rarely
+546,Manager,IT,4,Travel_Rarely
+547,Research Scientist,IT,2,Travel_Frequently
+548,IT Director,IT,2,Travel_Rarely
+549,Manager,IT,5,Travel_Rarely
+550,IT Director,IT,2,Travel_Rarely
+551,QA Tester,IT,2,Travel_Frequently
+554,Process Associate II,Operations,1,Travel_Rarely
+555,Process Associate II,Operations,1,Travel_Frequently
+556,Software Engineer,IT,1,Travel_Frequently
+558,Manager,Operations,5,Travel_Rarely
+560,Research Scientist,IT,1,Travel_Rarely
+562,Software Engineer,IT,1,Non-Travel
+564,Research Director,IT,3,Travel_Rarely
+565,Research Scientist,IT,1,Travel_Rarely
+566,Human Resources,HR,1,Travel_Rarely
+567,Process Associate,Operations,3,Non-Travel
+568,Manager,Operations,4,Travel_Rarely
+569,Manager,IT,4,Travel_Rarely
+571,Software Engineer,IT,1,Non-Travel
+573,Process Associate,Operations,3,Travel_Frequently
+574,IT Director,IT,2,Travel_Rarely
+575,Research Director,IT,4,Travel_Rarely
+577,Software Engineer,IT,1,Travel_Rarely
+578,Software Engineer,IT,2,Travel_Rarely
+579,Research Scientist,IT,1,Travel_Rarely
+580,Process Associate,Operations,3,Travel_Rarely
+581,IT Director,IT,3,Travel_Rarely
+582,Manager,IT,3,Travel_Rarely
+584,Software Engineer,IT,1,Travel_Rarely
+585,Process Associate II,Operations,1,Travel_Rarely
+586,QA Tester,IT,3,Travel_Rarely
+587,QA Tester,IT,3,Travel_Frequently
+590,Human Resources,HR,3,Travel_Frequently
+591,Software Engineer,IT,1,Travel_Frequently
+592,Process Associate,Operations,3,Non-Travel
+593,Software Engineer,IT,1,Travel_Frequently
+595,Process Associate,Operations,2,Travel_Rarely
+597,Manager,Operations,4,Travel_Rarely
+599,Process Associate,Operations,2,Non-Travel
+600,Process Associate,Operations,2,Travel_Rarely
+601,IT Director,IT,4,Travel_Rarely
+602,Software Engineer,IT,1,Travel_Frequently
+604,Process Associate,Operations,2,Travel_Rarely
+605,IT Director,IT,3,Travel_Rarely
+606,Process Associate,Operations,2,Travel_Rarely
+608,Human Resources,HR,1,Travel_Frequently
+611,IT Director,IT,2,Travel_Rarely
+612,Research Director,IT,4,Travel_Rarely
+613,Manager,Operations,3,Travel_Rarely
+614,Process Associate II,Operations,1,Travel_Frequently
+615,Process Associate,Operations,3,Non-Travel
+616,QA Tester,IT,2,Non-Travel
+618,Process Associate,Operations,2,Travel_Rarely
+620,Process Associate,Operations,2,Travel_Rarely
+621,Process Associate,Operations,2,Travel_Rarely
+622,Software Engineer,IT,1,Travel_Rarely
+623,IT Director,IT,3,Travel_Rarely
+624,QA Tester,IT,3,Travel_Frequently
+625,Manager,Operations,4,Travel_Rarely
+626,Process Associate,Operations,3,Non-Travel
+630,Research Scientist,IT,2,Travel_Rarely
+631,Process Associate,Operations,2,Non-Travel
+632,Process Associate II,Operations,1,Travel_Frequently
+634,QA Tester,IT,2,Travel_Rarely
+635,IT Director,IT,2,Travel_Rarely
+638,Research Director,IT,5,Travel_Rarely
+639,Research Scientist,IT,1,Travel_Rarely
+641,Process Associate,Operations,2,Travel_Rarely
+643,Software Engineer,IT,1,Travel_Rarely
+644,Manager,HR,5,Travel_Frequently
+645,Process Associate II,Operations,1,Travel_Rarely
+647,Software Engineer,IT,1,Travel_Frequently
+648,Process Associate II,Operations,1,Travel_Frequently
+649,Research Scientist,IT,1,Travel_Rarely
+650,Process Associate,Operations,2,Travel_Rarely
+652,Software Engineer,IT,2,Travel_Rarely
+653,Process Associate,Operations,2,Travel_Rarely
+655,Research Scientist,IT,1,Travel_Rarely
+656,Process Associate,Operations,2,Travel_Rarely
+657,Research Scientist,IT,1,Travel_Rarely
+659,QA Tester,IT,2,Travel_Rarely
+661,Research Director,IT,4,Travel_Rarely
+662,Research Scientist,IT,1,Travel_Rarely
+663,Software Engineer,IT,2,Travel_Frequently
+664,Manager,IT,4,Travel_Rarely
+665,Human Resources,HR,2,Travel_Rarely
+666,Process Associate II,Operations,1,Travel_Rarely
+667,Process Associate II,Operations,1,Travel_Rarely
+669,Process Associate II,Operations,1,Travel_Rarely
+671,Manager,IT,5,Travel_Rarely
+675,Research Scientist,IT,1,Travel_Rarely
+677,Process Associate,Operations,2,Travel_Rarely
+679,Research Scientist,IT,2,Travel_Rarely
+680,Research Scientist,IT,1,Travel_Frequently
+682,Process Associate,Operations,2,Travel_Rarely
+683,Research Scientist,IT,1,Travel_Rarely
+684,Process Associate,Operations,2,Travel_Frequently
+686,Software Engineer,IT,1,Travel_Rarely
+689,IT Director,IT,3,Travel_Rarely
+690,Process Associate,Operations,2,Travel_Rarely
+691,Research Scientist,IT,2,Travel_Rarely
+692,QA Tester,IT,2,Travel_Frequently
+698,Human Resources,HR,3,Travel_Rarely
+699,IT Director,IT,2,Travel_Rarely
+700,Research Scientist,IT,1,Travel_Rarely
+701,Research Scientist,IT,1,Travel_Rarely
+702,Research Scientist,IT,1,Travel_Frequently
+704,Software Engineer,IT,1,Non-Travel
+705,Research Scientist,IT,1,Travel_Rarely
+707,Process Associate,Operations,2,Travel_Rarely
+709,Process Associate,Operations,2,Travel_Rarely
+710,Research Scientist,IT,1,Travel_Frequently
+712,Process Associate,Operations,2,Travel_Rarely
+714,Process Associate,Operations,2,Travel_Frequently
+715,Research Scientist,IT,1,Travel_Rarely
+716,Software Engineer,IT,1,Travel_Rarely
+717,QA Tester,IT,3,Travel_Rarely
+720,Process Associate,Operations,2,Travel_Rarely
+721,QA Tester,IT,2,Travel_Rarely
+722,Process Associate,Operations,2,Travel_Rarely
+723,Process Associate,Operations,2,Travel_Frequently
+724,QA Tester,IT,2,Travel_Rarely
+725,IT Director,IT,3,Travel_Rarely
+727,Research Director,IT,3,Travel_Rarely
+728,Process Associate,Operations,2,Travel_Rarely
+729,Process Associate,Operations,3,Travel_Frequently
+730,Research Director,IT,4,Travel_Rarely
+731,Manager,HR,5,Travel_Rarely
+732,Process Associate,Operations,2,Travel_Rarely
+733,IT Director,IT,3,Travel_Frequently
+734,Manager,HR,5,Travel_Rarely
+738,Process Associate II,Operations,1,Travel_Rarely
+741,Research Scientist,IT,1,Travel_Rarely
+742,Research Director,IT,3,Non-Travel
+743,IT Director,IT,3,Travel_Rarely
+744,Software Engineer,IT,1,Non-Travel
+746,Process Associate,Operations,4,Travel_Frequently
+747,Process Associate,Operations,2,Travel_Rarely
+749,Process Associate II,Operations,1,Travel_Rarely
+752,Research Scientist,IT,1,Travel_Frequently
+754,Process Associate,Operations,2,Travel_Frequently
+757,QA Tester,IT,2,Travel_Rarely
+758,Software Engineer,IT,1,Travel_Rarely
+760,Human Resources,HR,2,Travel_Rarely
+762,QA Tester,IT,4,Travel_Rarely
+763,Research Scientist,IT,1,Travel_Rarely
+764,QA Tester,IT,2,Travel_Rarely
+766,Process Associate II,Operations,1,Travel_Rarely
+769,Software Engineer,IT,2,Travel_Rarely
+771,QA Tester,IT,2,Non-Travel
+772,Software Engineer,IT,2,Travel_Frequently
+773,Research Scientist,IT,1,Travel_Rarely
+775,IT Director,IT,2,Travel_Rarely
+776,Manager,Operations,4,Travel_Rarely
+780,Research Scientist,IT,1,Travel_Rarely
+781,Process Associate,Operations,2,Travel_Rarely
+783,Process Associate II,Operations,2,Travel_Rarely
+784,Research Scientist,IT,1,Travel_Rarely
+785,Process Associate,Operations,2,Travel_Frequently
+786,Process Associate,Operations,2,Travel_Rarely
+787,Manager,IT,5,Travel_Rarely
+789,Process Associate,Operations,3,Non-Travel
+791,Research Scientist,IT,1,Non-Travel
+792,Software Engineer,IT,1,Travel_Frequently
+793,QA Tester,IT,2,Travel_Rarely
+796,Process Associate,Operations,2,Travel_Rarely
+797,Research Scientist,IT,1,Travel_Rarely
+799,IT Director,IT,2,Travel_Rarely
+800,Process Associate,Operations,2,Travel_Frequently
+802,Research Scientist,IT,1,Travel_Rarely
+803,IT Director,IT,2,Travel_Frequently
+804,Research Scientist,IT,1,Travel_Rarely
+805,Process Associate II,Operations,1,Travel_Rarely
+806,Software Engineer,IT,1,Travel_Rarely
+807,QA Tester,IT,2,Travel_Frequently
+808,Process Associate,Operations,2,Travel_Rarely
+809,Manager,IT,5,Travel_Frequently
+811,Software Engineer,IT,1,Travel_Rarely
+812,Software Engineer,IT,1,Non-Travel
+813,Software Engineer,IT,2,Travel_Rarely
+815,Research Director,IT,4,Travel_Rarely
+816,Software Engineer,IT,1,Travel_Rarely
+817,Research Director,IT,3,Travel_Rarely
+819,Process Associate,Operations,2,Travel_Rarely
+820,Manager,IT,4,Travel_Rarely
+823,IT Director,IT,2,Travel_Rarely
+824,Research Scientist,IT,1,Travel_Rarely
+825,Research Director,IT,5,Travel_Rarely
+826,Research Scientist,IT,1,Travel_Rarely
+827,IT Director,IT,2,Travel_Rarely
+828,Research Scientist,IT,1,Travel_Rarely
+829,Human Resources,HR,1,Travel_Rarely
+830,IT Director,IT,2,Travel_Rarely
+832,Software Engineer,IT,2,Travel_Frequently
+833,IT Director,IT,2,Travel_Rarely
+834,Research Scientist,IT,1,Travel_Rarely
+836,IT Director,IT,2,Travel_Rarely
+837,QA Tester,IT,2,Travel_Frequently
+838,Research Scientist,IT,1,Travel_Frequently
+840,Process Associate,Operations,3,Travel_Rarely
+842,Process Associate,Operations,2,Travel_Rarely
+843,Research Director,IT,4,Travel_Rarely
+844,Research Director,IT,3,Travel_Rarely
+845,IT Director,IT,3,Travel_Rarely
+846,Process Associate,Operations,2,Travel_Rarely
+847,Human Resources,HR,1,Travel_Rarely
+848,Research Scientist,IT,1,Travel_Frequently
+850,Research Scientist,IT,1,Non-Travel
+851,Manager,Operations,4,Travel_Rarely
+852,QA Tester,IT,2,Travel_Rarely
+854,Research Scientist,IT,1,Travel_Rarely
+855,Process Associate,Operations,2,Travel_Rarely
+856,Research Scientist,IT,1,Travel_Rarely
+857,Process Associate,Operations,2,Travel_Rarely
+859,Process Associate,Operations,2,Travel_Rarely
+861,Research Scientist,IT,1,Travel_Frequently
+862,Process Associate,Operations,3,Travel_Rarely
+864,Process Associate,Operations,3,Travel_Rarely
+865,Research Scientist,IT,2,Travel_Rarely
+867,IT Director,IT,4,Travel_Frequently
+868,Process Associate,Operations,2,Travel_Rarely
+869,Human Resources,HR,1,Travel_Rarely
+872,IT Director,IT,2,Travel_Rarely
+874,Software Engineer,IT,1,Travel_Rarely
+875,Research Scientist,IT,1,Travel_Frequently
+878,Human Resources,HR,1,Travel_Rarely
+879,Process Associate,Operations,2,Travel_Rarely
+880,IT Director,IT,3,Travel_Rarely
+881,Research Scientist,IT,1,Travel_Frequently
+882,Software Engineer,IT,1,Non-Travel
+885,Process Associate,Operations,2,Travel_Rarely
+887,Research Scientist,IT,1,Travel_Rarely
+888,Software Engineer,IT,1,Non-Travel
+889,Process Associate,Operations,2,Travel_Frequently
+893,Process Associate II,Operations,1,Travel_Rarely
+894,Software Engineer,IT,2,Travel_Rarely
+895,Research Scientist,IT,1,Travel_Rarely
+896,Process Associate II,Operations,1,Travel_Rarely
+897,Process Associate,Operations,4,Travel_Rarely
+899,IT Director,IT,3,Travel_Rarely
+900,Process Associate II,Operations,1,Travel_Frequently
+901,Research Director,IT,4,Travel_Rarely
+902,QA Tester,IT,2,Travel_Frequently
+903,Process Associate,Operations,2,Travel_Rarely
+904,Process Associate,Operations,3,Non-Travel
+905,Manager,IT,4,Non-Travel
+909,Human Resources,HR,2,Travel_Rarely
+910,Human Resources,HR,1,Travel_Rarely
+911,Software Engineer,IT,1,Travel_Rarely
+912,Software Engineer,IT,1,Travel_Rarely
+913,Research Scientist,IT,1,Travel_Rarely
+916,Process Associate,Operations,2,Travel_Rarely
+918,Software Engineer,IT,1,Travel_Frequently
+920,IT Director,IT,2,Travel_Rarely
+922,Process Associate II,Operations,1,Travel_Rarely
+923,Research Scientist,IT,1,Travel_Rarely
+924,QA Tester,IT,2,Travel_Rarely
+925,Process Associate II,Operations,1,Travel_Rarely
+926,IT Director,IT,2,Travel_Rarely
+927,Software Engineer,IT,1,Travel_Rarely
+930,Research Scientist,IT,1,Travel_Rarely
+932,Software Engineer,IT,1,Travel_Rarely
+933,Research Scientist,IT,1,Travel_Rarely
+934,Software Engineer,IT,1,Travel_Rarely
+936,Process Associate,Operations,2,Travel_Rarely
+939,Research Scientist,IT,1,Travel_Rarely
+940,QA Tester,IT,3,Travel_Rarely
+941,Process Associate II,Operations,1,Travel_Rarely
+942,QA Tester,IT,2,Travel_Rarely
+944,Software Engineer,IT,3,Travel_Rarely
+945,Research Scientist,IT,1,Travel_Rarely
+947,Process Associate,Operations,2,Non-Travel
+949,Research Scientist,IT,1,Travel_Rarely
+950,Research Director,IT,3,Travel_Rarely
+951,Software Engineer,IT,1,Non-Travel
+952,Process Associate II,Operations,1,Travel_Rarely
+954,Process Associate,Operations,3,Travel_Rarely
+956,Process Associate,Operations,2,Travel_Frequently
+957,Software Engineer,IT,1,Travel_Rarely
+958,Software Engineer,IT,1,Travel_Rarely
+959,Process Associate II,Operations,1,Travel_Rarely
+960,Software Engineer,IT,1,Travel_Rarely
+961,QA Tester,IT,2,Travel_Rarely
+964,Research Scientist,IT,1,Travel_Frequently
+966,IT Director,IT,2,Travel_Rarely
+967,Process Associate,Operations,3,Travel_Rarely
+969,QA Tester,IT,2,Travel_Rarely
+970,Process Associate,Operations,3,Travel_Rarely
+972,Software Engineer,IT,2,Non-Travel
+974,Process Associate II,Operations,1,Travel_Frequently
+975,Process Associate,Operations,2,Travel_Rarely
+976,Manager,IT,4,Travel_Rarely
+977,Research Scientist,IT,1,Travel_Rarely
+981,Manager,Operations,4,Travel_Rarely
+982,Process Associate,Operations,3,Travel_Rarely
+983,Process Associate,Operations,2,Non-Travel
+984,Process Associate,Operations,3,Travel_Rarely
+985,Process Associate,Operations,3,Travel_Rarely
+986,Process Associate,Operations,4,Non-Travel
+987,IT Director,IT,2,Travel_Frequently
+990,Process Associate,Operations,2,Non-Travel
+991,Research Scientist,IT,1,Non-Travel
+992,Manager,Operations,4,Non-Travel
+994,Research Scientist,IT,1,Travel_Rarely
+995,Research Scientist,IT,1,Travel_Rarely
+996,Software Engineer,IT,1,Travel_Rarely
+997,Research Director,IT,4,Travel_Rarely
+998,QA Tester,IT,2,Travel_Frequently
+999,Research Director,IT,5,Travel_Frequently
+1001,Software Engineer,IT,1,Travel_Rarely
+1002,Software Engineer,IT,2,Non-Travel
+1003,Process Associate,Operations,2,Travel_Rarely
+1004,Research Scientist,IT,1,Travel_Rarely
+1005,IT Director,IT,4,Travel_Rarely
+1006,Research Scientist,IT,1,Travel_Frequently
+1007,IT Director,IT,3,Travel_Rarely
+1009,IT Director,IT,2,Travel_Rarely
+1010,Software Engineer,IT,1,Travel_Rarely
+1011,IT Director,IT,2,Travel_Frequently
+1012,Research Scientist,IT,1,Non-Travel
+1013,IT Director,IT,3,Travel_Rarely
+1014,QA Tester,IT,3,Travel_Rarely
+1015,Research Director,IT,3,Travel_Rarely
+1016,Research Scientist,IT,1,Travel_Rarely
+1017,Software Engineer,IT,1,Travel_Frequently
+1018,IT Director,IT,2,Travel_Rarely
+1019,Software Engineer,IT,1,Travel_Rarely
+1022,QA Tester,IT,2,Travel_Rarely
+1024,QA Tester,IT,3,Travel_Rarely
+1025,IT Director,IT,2,Travel_Rarely
+1026,IT Director,IT,4,Travel_Rarely
+1027,IT Director,IT,2,Travel_Rarely
+1028,Software Engineer,IT,1,Travel_Rarely
+1029,Manager,Operations,5,Travel_Rarely
+1030,Software Engineer,IT,1,Travel_Rarely
+1032,IT Director,IT,4,Travel_Rarely
+1033,QA Tester,IT,2,Travel_Rarely
+1034,QA Tester,IT,2,Travel_Frequently
+1035,Research Director,IT,5,Non-Travel
+1036,Process Associate,Operations,2,Travel_Rarely
+1037,Process Associate,Operations,2,Non-Travel
+1038,Manager,Operations,5,Travel_Rarely
+1039,Process Associate,Operations,4,Travel_Rarely
+1040,Process Associate,Operations,2,Non-Travel
+1042,Software Engineer,IT,1,Travel_Rarely
+1043,IT Director,IT,3,Travel_Frequently
+1044,Process Associate II,Operations,1,Non-Travel
+1045,Manager,Operations,4,Travel_Rarely
+1046,Software Engineer,IT,1,Non-Travel
+1047,Process Associate,Operations,2,Travel_Rarely
+1048,Manager,Operations,3,Travel_Rarely
+1049,Human Resources,HR,1,Travel_Rarely
+1050,Process Associate,Operations,3,Travel_Frequently
+1052,Software Engineer,IT,2,Travel_Rarely
+1053,Research Scientist,IT,1,Travel_Frequently
+1055,Process Associate II,Operations,1,Travel_Rarely
+1056,Process Associate II,Operations,1,Travel_Rarely
+1060,Research Scientist,IT,1,Travel_Frequently
+1061,Research Director,IT,5,Travel_Rarely
+1062,QA Tester,IT,2,Travel_Rarely
+1066,Process Associate,Operations,2,Travel_Rarely
+1068,Research Scientist,IT,1,Travel_Frequently
+1069,Research Director,IT,5,Travel_Rarely
+1070,Process Associate,Operations,3,Travel_Rarely
+1071,Research Scientist,IT,1,Travel_Frequently
+1073,IT Director,IT,3,Travel_Rarely
+1074,Manager,IT,4,Non-Travel
+1076,Process Associate,Operations,3,Travel_Rarely
+1077,Process Associate II,Operations,1,Travel_Frequently
+1079,Software Engineer,IT,1,Travel_Rarely
+1080,Research Scientist,IT,2,Travel_Rarely
+1081,Research Scientist,IT,1,Travel_Rarely
+1082,QA Tester,IT,3,Non-Travel
+1083,Software Engineer,IT,1,Travel_Rarely
+1084,IT Director,IT,2,Travel_Rarely
+1085,Research Scientist,IT,1,Travel_Rarely
+1088,QA Tester,IT,3,Travel_Rarely
+1092,QA Tester,IT,3,Travel_Rarely
+1094,Software Engineer,IT,1,Non-Travel
+1096,IT Director,IT,3,Travel_Frequently
+1097,Research Scientist,IT,2,Travel_Rarely
+1098,Human Resources,HR,3,Travel_Rarely
+1099,QA Tester,IT,3,Travel_Rarely
+1100,Process Associate,Operations,3,Travel_Rarely
+1101,Research Scientist,IT,2,Travel_Frequently
+1102,Software Engineer,IT,1,Travel_Rarely
+1103,QA Tester,IT,2,Travel_Frequently
+1105,Process Associate,Operations,2,Travel_Rarely
+1106,Software Engineer,IT,1,Travel_Rarely
+1107,Software Engineer,IT,1,Travel_Rarely
+1108,Research Scientist,IT,1,Travel_Rarely
+1109,Manager,IT,4,Travel_Rarely
+1111,Software Engineer,IT,1,Travel_Frequently
+1113,Process Associate,Operations,2,Travel_Frequently
+1114,Process Associate,Operations,2,Travel_Frequently
+1115,Research Scientist,IT,1,Non-Travel
+1116,Manager,IT,4,Non-Travel
+1117,Process Associate,Operations,2,Non-Travel
+1118,QA Tester,IT,3,Travel_Rarely
+1119,Process Associate,Operations,3,Travel_Rarely
+1120,Research Scientist,IT,1,Travel_Rarely
+1121,IT Director,IT,3,Travel_Rarely
+1124,Manager,Operations,4,Travel_Rarely
+1125,Process Associate,Operations,3,Travel_Rarely
+1126,IT Director,IT,3,Travel_Frequently
+1127,QA Tester,IT,4,Travel_Frequently
+1128,Research Director,IT,5,Travel_Rarely
+1131,Research Scientist,IT,1,Travel_Rarely
+1132,Software Engineer,IT,2,Non-Travel
+1133,IT Director,IT,2,Non-Travel
+1135,Process Associate II,Operations,1,Travel_Frequently
+1136,Research Scientist,IT,1,Travel_Rarely
+1137,Process Associate,Operations,2,Travel_Frequently
+1138,Process Associate,Operations,4,Travel_Rarely
+1140,IT Director,IT,2,Travel_Frequently
+1143,Research Scientist,IT,1,Travel_Frequently
+1148,Software Engineer,IT,2,Travel_Rarely
+1150,IT Director,IT,2,Travel_Rarely
+1152,Human Resources,HR,1,Travel_Rarely
+1154,Research Scientist,IT,1,Travel_Frequently
+1156,Software Engineer,IT,1,Non-Travel
+1157,Process Associate,Operations,2,Travel_Rarely
+1158,Software Engineer,IT,1,Travel_Rarely
+1160,Software Engineer,IT,1,Travel_Frequently
+1161,QA Tester,IT,2,Travel_Rarely
+1162,Research Scientist,IT,1,Travel_Rarely
+1163,Process Associate,Operations,2,Travel_Rarely
+1164,Human Resources,HR,1,Travel_Rarely
+1165,Process Associate,Operations,3,Travel_Rarely
+1166,Research Director,IT,3,Travel_Frequently
+1167,Process Associate,Operations,4,Travel_Frequently
+1171,Process Associate,Operations,2,Travel_Rarely
+1172,Software Engineer,IT,1,Travel_Rarely
+1173,Software Engineer,IT,1,Travel_Rarely
+1175,Software Engineer,IT,1,Travel_Rarely
+1177,Software Engineer,IT,1,Travel_Rarely
+1179,Process Associate,Operations,2,Travel_Rarely
+1180,Research Scientist,IT,2,Travel_Frequently
+1182,IT Director,IT,3,Travel_Rarely
+1184,QA Tester,IT,2,Travel_Frequently
+1185,Software Engineer,IT,1,Travel_Frequently
+1188,Process Associate,Operations,2,Travel_Rarely
+1190,Process Associate II,Operations,1,Non-Travel
+1191,Manager,IT,5,Travel_Rarely
+1192,Software Engineer,IT,1,Travel_Rarely
+1193,Research Scientist,IT,1,Travel_Rarely
+1195,Research Scientist,IT,1,Travel_Rarely
+1196,IT Director,IT,2,Travel_Rarely
+1198,Software Engineer,IT,1,Travel_Rarely
+1200,Research Scientist,IT,1,Travel_Rarely
+1201,Manager,IT,5,Travel_Rarely
+1202,Research Scientist,IT,1,Travel_Rarely
+1203,Research Scientist,IT,1,Travel_Frequently
+1204,Manager,Operations,4,Travel_Rarely
+1206,Research Scientist,IT,1,Non-Travel
+1207,Human Resources,HR,1,Travel_Rarely
+1210,Research Scientist,IT,1,Non-Travel
+1211,Process Associate,Operations,2,Travel_Rarely
+1212,Process Associate,Operations,2,Travel_Frequently
+1215,Manager,IT,4,Travel_Frequently
+1216,Software Engineer,IT,1,Travel_Rarely
+1217,Research Director,IT,5,Travel_Rarely
+1218,Process Associate,Operations,2,Travel_Rarely
+1219,Software Engineer,IT,1,Travel_Rarely
+1220,Process Associate,Operations,2,Travel_Frequently
+1221,Software Engineer,IT,1,Travel_Rarely
+1224,Software Engineer,IT,2,Travel_Rarely
+1225,Research Scientist,IT,2,Travel_Rarely
+1226,Process Associate II,Operations,1,Travel_Rarely
+1228,IT Director,IT,2,Travel_Rarely
+1231,Human Resources,HR,2,Non-Travel
+1233,Process Associate,Operations,2,Travel_Rarely
+1234,Software Engineer,IT,1,Travel_Frequently
+1235,Research Scientist,IT,2,Travel_Frequently
+1237,IT Director,IT,3,Travel_Rarely
+1238,Research Scientist,IT,1,Travel_Rarely
+1239,Process Associate,Operations,2,Travel_Rarely
+1240,Process Associate,Operations,2,Travel_Rarely
+1241,Research Scientist,IT,1,Travel_Rarely
+1242,Research Director,IT,3,Travel_Frequently
+1243,Process Associate,Operations,3,Non-Travel
+1244,Research Scientist,IT,1,Travel_Rarely
+1245,IT Director,IT,3,Travel_Frequently
+1246,Research Scientist,IT,1,Travel_Rarely
+1248,Research Scientist,IT,1,Non-Travel
+1249,Research Scientist,IT,1,Travel_Rarely
+1250,Research Director,IT,4,Travel_Rarely
+1251,QA Tester,IT,2,Travel_Rarely
+1252,QA Tester,IT,2,Travel_Rarely
+1254,Process Associate,Operations,2,Travel_Rarely
+1255,Research Director,IT,5,Travel_Rarely
+1256,Manager,IT,5,Travel_Rarely
+1257,Research Scientist,IT,1,Travel_Frequently
+1258,Software Engineer,IT,1,Travel_Rarely
+1259,Research Scientist,IT,1,Travel_Rarely
+1260,QA Tester,IT,2,Travel_Rarely
+1263,Research Director,IT,5,Travel_Rarely
+1264,Research Director,IT,4,Travel_Rarely
+1265,Research Scientist,IT,1,Travel_Rarely
+1267,Manager,Operations,5,Travel_Rarely
+1268,Process Associate,Operations,3,Travel_Rarely
+1269,Research Scientist,IT,1,Travel_Rarely
+1270,Research Scientist,IT,1,Travel_Rarely
+1273,Process Associate II,Operations,1,Travel_Frequently
+1275,Research Scientist,IT,1,Travel_Rarely
+1277,Manager,Operations,5,Travel_Rarely
+1278,QA Tester,IT,4,Non-Travel
+1279,Software Engineer,IT,1,Travel_Frequently
+1280,Manager,Operations,5,Travel_Rarely
+1281,Process Associate,Operations,2,Travel_Rarely
+1282,Manager,Operations,5,Travel_Frequently
+1283,IT Director,IT,3,Travel_Rarely
+1285,Software Engineer,IT,2,Travel_Frequently
+1286,Software Engineer,IT,1,Travel_Frequently
+1288,Manager,IT,5,Travel_Rarely
+1289,Human Resources,HR,2,Travel_Frequently
+1291,Research Scientist,IT,1,Travel_Rarely
+1292,Research Scientist,IT,2,Travel_Rarely
+1293,Process Associate,Operations,3,Travel_Rarely
+1294,IT Director,IT,2,Travel_Rarely
+1295,QA Tester,IT,3,Travel_Rarely
+1296,Software Engineer,IT,1,Travel_Frequently
+1297,Software Engineer,IT,1,Travel_Frequently
+1298,IT Director,IT,2,Non-Travel
+1299,Software Engineer,IT,1,Travel_Rarely
+1301,Research Scientist,IT,1,Travel_Rarely
+1303,Research Scientist,IT,1,Travel_Rarely
+1304,Process Associate,Operations,2,Travel_Rarely
+1306,Manager,IT,5,Travel_Frequently
+1307,Manager,IT,4,Travel_Rarely
+1308,Research Scientist,IT,1,Travel_Rarely
+1309,Software Engineer,IT,2,Travel_Rarely
+1310,Research Scientist,IT,1,Travel_Rarely
+1311,Software Engineer,IT,2,Travel_Rarely
+1312,QA Tester,IT,3,Travel_Rarely
+1314,Human Resources,HR,1,Travel_Rarely
+1315,Software Engineer,IT,2,Non-Travel
+1317,Research Director,IT,4,Travel_Rarely
+1318,Process Associate,Operations,3,Travel_Rarely
+1319,Process Associate,Operations,3,Travel_Rarely
+1321,Manager,IT,3,Travel_Rarely
+1322,IT Director,IT,2,Travel_Rarely
+1324,Process Associate,Operations,3,Non-Travel
+1329,Process Associate,Operations,2,Non-Travel
+1331,Process Associate II,Operations,1,Travel_Frequently
+1333,Software Engineer,IT,1,Travel_Rarely
+1334,Manager,IT,4,Non-Travel
+1336,Manager,IT,5,Travel_Rarely
+1338,Manager,HR,5,Travel_Rarely
+1340,Research Scientist,IT,1,Non-Travel
+1344,QA Tester,IT,3,Travel_Rarely
+1346,Research Scientist,IT,2,Travel_Rarely
+1349,Process Associate,Operations,2,Travel_Frequently
+1350,Research Scientist,IT,2,Travel_Frequently
+1352,Manager,HR,4,Travel_Rarely
+1355,Process Associate,Operations,2,Travel_Rarely
+1356,Process Associate,Operations,2,Travel_Rarely
+1358,Software Engineer,IT,1,Travel_Rarely
+1360,IT Director,IT,3,Travel_Rarely
+1361,Software Engineer,IT,1,Travel_Rarely
+1362,Process Associate,Operations,2,Travel_Frequently
+1363,IT Director,IT,3,Travel_Rarely
+1364,Process Associate II,Operations,1,Travel_Rarely
+1367,IT Director,IT,4,Travel_Rarely
+1368,Software Engineer,IT,1,Non-Travel
+1369,Software Engineer,IT,2,Travel_Rarely
+1371,Process Associate,Operations,2,Travel_Frequently
+1372,Process Associate,Operations,4,Travel_Rarely
+1373,IT Director,IT,4,Travel_Rarely
+1374,Research Scientist,IT,1,Non-Travel
+1375,QA Tester,IT,2,Travel_Rarely
+1377,Software Engineer,IT,2,Travel_Rarely
+1379,Process Associate II,Operations,1,Travel_Frequently
+1380,Process Associate,Operations,2,Travel_Frequently
+1382,Research Scientist,IT,1,Travel_Frequently
+1383,QA Tester,IT,2,Travel_Rarely
+1387,Process Associate,Operations,2,Travel_Rarely
+1389,IT Director,IT,2,Travel_Rarely
+1390,Process Associate,Operations,2,Travel_Rarely
+1391,Process Associate,Operations,3,Travel_Frequently
+1392,Research Scientist,IT,2,Travel_Frequently
+1394,Research Scientist,IT,1,Travel_Rarely
+1395,Process Associate,Operations,2,Travel_Frequently
+1396,Process Associate,Operations,2,Travel_Rarely
+1397,QA Tester,IT,3,Non-Travel
+1399,Process Associate,Operations,2,Travel_Rarely
+1401,IT Director,IT,4,Travel_Frequently
+1402,Research Scientist,IT,2,Travel_Rarely
+1403,Process Associate,Operations,2,Travel_Rarely
+1405,Research Scientist,IT,1,Travel_Rarely
+1407,Research Scientist,IT,1,Travel_Rarely
+1408,Manager,HR,4,Travel_Rarely
+1955,QA Tester,IT,2,Non-Travel
+1662,IT Director,IT,2,Non-Travel
+1630,QA Tester,IT,2,Non-Travel
+2000,Research Director,IT,3,Non-Travel
+1839,Research Scientist,IT,1,Non-Travel
+1929,Process Associate,Operations,2,Non-Travel
+1495,Process Associate II,Operations,1,Non-Travel
+1756,Process Associate,Operations,2,Non-Travel
+1900,Manager,IT,4,Travel_Frequently
+2025,IT Director,IT,2,Travel_Frequently
+1760,Software Engineer,IT,1,Travel_Frequently
+1870,Research Scientist,IT,1,Travel_Frequently
+1985,Software Engineer,IT,2,Travel_Frequently
+1513,Software Engineer,IT,1,Travel_Frequently
+1633,IT Director,IT,2,Travel_Frequently
+1480,Software Engineer,IT,1,Travel_Frequently
+1745,Research Scientist,IT,1,Travel_Frequently
+1481,Process Associate,Operations,2,Travel_Frequently
+1833,Process Associate,Operations,3,Travel_Frequently
+1987,Human Resources,HR,1,Travel_Rarely
+1625,Manager,HR,5,Travel_Rarely
+1461,Human Resources,HR,1,Travel_Rarely
+1916,Software Engineer,IT,1,Travel_Rarely
+1829,QA Tester,IT,2,Travel_Rarely
+1822,QA Tester,IT,2,Travel_Rarely
+1762,Research Scientist,IT,1,Travel_Rarely
+1658,Research Scientist,IT,2,Travel_Rarely
+1635,IT Director,IT,2,Travel_Rarely
+1656,Research Director,IT,3,Travel_Rarely
+1502,Software Engineer,IT,1,Travel_Rarely
+1866,Manager,IT,5,Travel_Rarely
+1786,Manager,IT,3,Travel_Rarely
+1701,Research Scientist,IT,1,Travel_Rarely
+1647,Research Scientist,IT,1,Travel_Rarely
+1409,Software Engineer,IT,1,Travel_Rarely
+2015,Research Director,IT,3,Travel_Rarely
+1640,Research Scientist,IT,1,Travel_Rarely
+1544,QA Tester,IT,2,Travel_Rarely
+2052,Research Scientist,IT,1,Travel_Rarely
+1802,Software Engineer,IT,1,Travel_Rarely
+1617,Software Engineer,IT,1,Travel_Rarely
+1576,Research Scientist,IT,1,Travel_Rarely
+1447,Software Engineer,IT,1,Travel_Rarely
+1555,Research Scientist,IT,2,Travel_Rarely
+1782,Software Engineer,IT,1,Travel_Rarely
+1687,Software Engineer,IT,1,Travel_Rarely
+1709,Software Engineer,IT,1,Travel_Rarely
+1830,Research Scientist,IT,2,Travel_Rarely
+1628,IT Director,IT,3,Travel_Rarely
+1655,Research Director,IT,4,Travel_Rarely
+1969,Research Scientist,IT,2,Travel_Rarely
+1443,Research Director,IT,4,Travel_Rarely
+1888,IT Director,IT,2,Travel_Rarely
+1651,QA Tester,IT,3,Travel_Rarely
+1607,Research Scientist,IT,1,Travel_Rarely
+2051,Research Scientist,IT,1,Travel_Rarely
+1430,Research Director,IT,4,Travel_Rarely
+1411,Software Engineer,IT,1,Travel_Rarely
+1816,IT Director,IT,3,Travel_Rarely
+1525,IT Director,IT,3,Travel_Rarely
+1856,Software Engineer,IT,1,Travel_Rarely
+2010,Software Engineer,IT,1,Travel_Rarely
+1735,Software Engineer,IT,1,Travel_Rarely
+1751,Research Scientist,IT,1,Travel_Rarely
+2054,Research Scientist,IT,1,Travel_Rarely
+1529,QA Tester,IT,3,Travel_Rarely
+1719,Research Director,IT,4,Travel_Rarely
+1422,Research Director,IT,4,Travel_Rarely
+1863,Process Associate,Operations,4,Travel_Rarely
+1557,Process Associate,Operations,2,Travel_Rarely
+1428,Process Associate,Operations,2,Travel_Rarely
+1676,Manager,Operations,4,Travel_Rarely
+2041,Process Associate,Operations,2,Travel_Rarely
+2045,Process Associate,Operations,2,Travel_Rarely
+2056,Process Associate,Operations,4,Travel_Rarely
+1986,Process Associate,Operations,2,Travel_Rarely
+1875,Process Associate II,Operations,1,Travel_Rarely
+1527,Manager,Operations,4,Travel_Rarely
+1935,Process Associate,Operations,2,Travel_Rarely
+1598,Process Associate,Operations,2,Travel_Rarely
+1784,Process Associate,Operations,2,Travel_Rarely
+2024,Process Associate,Operations,3,Travel_Rarely
+1673,Process Associate,Operations,2,Travel_Rarely
+1436,Process Associate,Operations,2,Travel_Rarely
+2016,Process Associate,Operations,3,Travel_Rarely
+1898,Process Associate,Operations,2,Travel_Rarely
+1583,Process Associate,Operations,2,Travel_Rarely
+1585,Process Associate,Operations,2,Travel_Rarely
+1657,Process Associate II,Operations,1,Travel_Rarely
+1710,Process Associate II,Operations,2,Travel_Rarely
+1779,Process Associate,Operations,2,Travel_Rarely
+2060,Process Associate II,Operations,1,Travel_Rarely
+2046,Process Associate,Operations,2,Travel_Rarely
+1757,Process Associate,Operations,2,Travel_Rarely
+1858,Human Resources,HR,1,Non-Travel
+1805,Human Resources,HR,1,Non-Travel
+1722,Human Resources,HR,2,Non-Travel
+1804,IT Director,IT,2,Non-Travel
+1468,Research Director,IT,3,Non-Travel
+1482,Research Scientist,IT,1,Non-Travel
+1449,Software Engineer,IT,2,Non-Travel
+1771,Research Scientist,IT,2,Non-Travel
+1994,Software Engineer,IT,1,Non-Travel
+1934,Research Scientist,IT,2,Non-Travel
+1574,Research Scientist,IT,2,Non-Travel
+1813,Research Scientist,IT,1,Non-Travel
+2057,IT Director,IT,2,Non-Travel
+1764,Research Scientist,IT,1,Non-Travel
+1471,Software Engineer,IT,1,Non-Travel
+1947,Research Scientist,IT,1,Non-Travel
+1440,Software Engineer,IT,1,Non-Travel
+1976,Research Scientist,IT,2,Non-Travel
+2022,Manager,IT,5,Non-Travel
+2019,Process Associate II,Operations,1,Non-Travel
+1612,Process Associate,Operations,2,Non-Travel
+1731,Process Associate,Operations,2,Non-Travel
+1801,Process Associate,Operations,2,Non-Travel
+1563,Human Resources,HR,2,Travel_Frequently
+1746,Human Resources,HR,1,Travel_Frequently
+1590,QA Tester,IT,2,Travel_Frequently
+1615,IT Director,IT,2,Travel_Frequently
+1485,Research Director,IT,4,Travel_Frequently
+1431,Research Scientist,IT,1,Travel_Frequently
+1653,IT Director,IT,2,Travel_Frequently
+1941,Research Director,IT,5,Travel_Frequently
+1852,Software Engineer,IT,1,Travel_Frequently
+1997,IT Director,IT,2,Travel_Frequently
+1720,Research Scientist,IT,1,Travel_Frequently
+1918,Software Engineer,IT,1,Travel_Frequently
+2061,Software Engineer,IT,2,Travel_Frequently
+1597,QA Tester,IT,2,Travel_Frequently
+1668,Research Scientist,IT,2,Travel_Frequently
+1922,QA Tester,IT,2,Travel_Frequently
+1412,IT Director,IT,3,Travel_Frequently
+1648,Research Scientist,IT,1,Travel_Frequently
+1812,Process Associate,Operations,2,Travel_Frequently
+1700,Process Associate,Operations,2,Travel_Frequently
+2065,Process Associate,Operations,2,Travel_Frequently
+1477,Process Associate,Operations,2,Travel_Frequently
+1507,Process Associate,Operations,2,Travel_Frequently
+1613,Process Associate,Operations,2,Travel_Frequently
+1853,Process Associate,Operations,2,Travel_Frequently
+1794,Human Resources,HR,2,Travel_Rarely
+1865,Human Resources,HR,1,Travel_Rarely
+1419,Human Resources,HR,3,Travel_Rarely
+1778,Human Resources,HR,1,Travel_Rarely
+1694,Research Scientist,IT,1,Travel_Rarely
+1506,Research Scientist,IT,1,Travel_Rarely
+1892,Manager,IT,4,Travel_Rarely
+1881,Software Engineer,IT,2,Travel_Rarely
+1627,Software Engineer,IT,2,Travel_Rarely
+1474,Research Scientist,IT,1,Travel_Rarely
+1857,IT Director,IT,3,Travel_Rarely
+1599,Software Engineer,IT,1,Travel_Rarely
+1940,Research Scientist,IT,1,Travel_Rarely
+1424,Research Director,IT,4,Travel_Rarely
+1484,QA Tester,IT,3,Travel_Rarely
+1859,QA Tester,IT,2,Travel_Rarely
+1619,Software Engineer,IT,1,Travel_Rarely
+1671,Research Scientist,IT,2,Travel_Rarely
+1553,QA Tester,IT,3,Travel_Rarely
+1725,Software Engineer,IT,1,Travel_Rarely
+1551,Software Engineer,IT,1,Travel_Rarely
+1871,Research Scientist,IT,2,Travel_Rarely
+2031,Manager,IT,5,Travel_Rarely
+1543,Research Scientist,IT,2,Travel_Rarely
+1434,Software Engineer,IT,1,Travel_Rarely
+1621,Research Scientist,IT,2,Travel_Rarely
+2068,Software Engineer,IT,2,Travel_Rarely
+1689,QA Tester,IT,3,Travel_Rarely
+1867,Research Director,IT,5,Travel_Rarely
+1989,Software Engineer,IT,1,Travel_Rarely
+1954,QA Tester,IT,2,Travel_Rarely
+1473,QA Tester,IT,2,Travel_Rarely
+1971,QA Tester,IT,3,Travel_Rarely
+1415,Software Engineer,IT,1,Travel_Rarely
+1438,Research Scientist,IT,1,Travel_Rarely
+1826,Software Engineer,IT,1,Travel_Rarely
+1609,Research Scientist,IT,1,Travel_Rarely
+1696,Software Engineer,IT,2,Travel_Rarely
+1931,Research Scientist,IT,1,Travel_Rarely
+1721,Software Engineer,IT,1,Travel_Rarely
+1729,Research Scientist,IT,1,Travel_Rarely
+1580,Research Scientist,IT,2,Travel_Rarely
+1903,QA Tester,IT,2,Travel_Rarely
+1542,Software Engineer,IT,1,Travel_Rarely
+1601,Software Engineer,IT,1,Travel_Rarely
+1911,Research Director,IT,3,Travel_Rarely
+1799,Research Scientist,IT,1,Travel_Rarely
+1763,QA Tester,IT,2,Travel_Rarely
+1707,Research Scientist,IT,1,Travel_Rarely
+2062,QA Tester,IT,3,Travel_Rarely
+1523,Research Director,IT,4,Travel_Rarely
+1728,IT Director,IT,2,Travel_Rarely
+1798,Research Scientist,IT,1,Travel_Rarely
+1592,Research Scientist,IT,1,Travel_Rarely
+1682,QA Tester,IT,2,Travel_Rarely
+2012,Software Engineer,IT,1,Travel_Rarely
+1803,QA Tester,IT,2,Travel_Rarely
+1596,Software Engineer,IT,2,Travel_Rarely
+1514,IT Director,IT,2,Travel_Rarely
+1558,Research Scientist,IT,1,Travel_Rarely
+1618,IT Director,IT,2,Travel_Rarely
+1698,Software Engineer,IT,1,Travel_Rarely
+1770,Research Director,IT,5,Travel_Rarely
+1631,IT Director,IT,2,Travel_Rarely
+1718,Software Engineer,IT,1,Travel_Rarely
+1435,Software Engineer,IT,2,Travel_Rarely
+1659,Software Engineer,IT,1,Travel_Rarely
+1533,Software Engineer,IT,2,Travel_Rarely
+1577,Research Scientist,IT,1,Travel_Rarely
+2014,Research Scientist,IT,2,Travel_Rarely
+1981,QA Tester,IT,2,Travel_Rarely
+2008,Research Scientist,IT,2,Travel_Rarely
+1814,QA Tester,IT,2,Travel_Rarely
+2048,Research Scientist,IT,1,Travel_Rarely
+1952,Software Engineer,IT,1,Travel_Rarely
+1727,QA Tester,IT,2,Travel_Rarely
+1677,Manager,IT,4,Travel_Rarely
+1623,Research Scientist,IT,1,Travel_Rarely
+1417,Software Engineer,IT,1,Travel_Rarely
+1564,Software Engineer,IT,1,Travel_Rarely
+1545,IT Director,IT,2,Travel_Rarely
+1883,Software Engineer,IT,1,Travel_Rarely
+2038,Research Scientist,IT,1,Travel_Rarely
+1475,Research Scientist,IT,1,Travel_Rarely
+1860,Software Engineer,IT,1,Travel_Rarely
+2007,Research Scientist,IT,1,Travel_Rarely
+1982,Software Engineer,IT,1,Travel_Rarely
+1472,Research Director,IT,4,Travel_Rarely
+1453,Process Associate,Operations,3,Travel_Rarely
+1754,Process Associate,Operations,3,Travel_Rarely
+2037,Process Associate,Operations,2,Travel_Rarely
+1951,Process Associate,Operations,3,Travel_Rarely
+1497,Process Associate,Operations,2,Travel_Rarely
+1670,Process Associate,Operations,2,Travel_Rarely
+1466,Process Associate,Operations,2,Travel_Rarely
+1548,Process Associate,Operations,2,Travel_Rarely
+1560,Process Associate,Operations,2,Travel_Rarely
+1996,Process Associate II,Operations,1,Travel_Rarely
+1749,Process Associate,Operations,2,Travel_Rarely
+2013,Process Associate II,Operations,1,Travel_Rarely
+1945,Process Associate,Operations,2,Travel_Rarely
+1568,Process Associate,Operations,3,Travel_Rarely
+1582,Process Associate,Operations,2,Travel_Rarely
+1739,Process Associate,Operations,3,Travel_Rarely
+1492,Process Associate II,Operations,1,Travel_Rarely
+1446,Process Associate,Operations,2,Travel_Rarely
+1588,Process Associate,Operations,3,Travel_Rarely
+1787,Process Associate,Operations,2,Travel_Rarely
+1908,Process Associate,Operations,2,Travel_Rarely
+1995,Process Associate,Operations,2,Travel_Rarely
+1479,Process Associate,Operations,2,Travel_Rarely
+1961,Process Associate II,Operations,1,Travel_Rarely
+1975,Process Associate,Operations,4,Travel_Rarely
+1740,Manager,Operations,5,Travel_Rarely
+1924,Process Associate,Operations,2,Travel_Rarely
+1650,Process Associate,Operations,2,Travel_Rarely
+1836,Process Associate,Operations,2,Travel_Rarely
+1478,Process Associate,Operations,2,Travel_Rarely
+1680,Process Associate II,Operations,1,Travel_Rarely
+1469,Process Associate,Operations,2,Travel_Rarely
+1708,Process Associate,Operations,3,Travel_Rarely
+1965,Process Associate,Operations,2,Travel_Rarely
+1602,Manager,Operations,4,Travel_Rarely
+1605,Research Scientist,IT,1,Non-Travel
+1937,Research Scientist,IT,2,Travel_Frequently
+1646,Research Scientist,IT,1,Travel_Frequently
+1850,Software Engineer,IT,1,Travel_Frequently
+1683,Human Resources,HR,1,Travel_Rarely
+2040,Human Resources,HR,3,Travel_Rarely
+1608,Research Director,IT,5,Travel_Rarely
+1827,IT Director,IT,3,Travel_Rarely
+1674,Software Engineer,IT,1,Travel_Rarely
+1974,Software Engineer,IT,1,Travel_Rarely
+1886,IT Director,IT,2,Travel_Rarely
+1893,Research Scientist,IT,1,Travel_Rarely
+1724,IT Director,IT,2,Travel_Rarely
+2009,QA Tester,IT,2,Travel_Rarely
+1661,QA Tester,IT,4,Travel_Rarely
+1703,QA Tester,IT,3,Travel_Rarely
+1638,IT Director,IT,3,Travel_Rarely
+1614,IT Director,IT,2,Travel_Rarely
+1587,QA Tester,IT,2,Travel_Rarely
+1611,Software Engineer,IT,2,Travel_Rarely
+1980,IT Director,IT,2,Travel_Rarely
+1641,IT Director,IT,3,Travel_Rarely
+1815,Process Associate,Operations,3,Travel_Rarely
+1912,Process Associate,Operations,2,Travel_Rarely
+1962,Process Associate,Operations,2,Travel_Rarely
+1915,Process Associate,Operations,2,Travel_Rarely
+1880,Process Associate,Operations,2,Travel_Rarely
+1503,Process Associate,Operations,2,Travel_Rarely
+1938,Manager,Operations,4,Travel_Rarely
+1445,Process Associate,Operations,2,Travel_Rarely
+1425,Process Associate,Operations,2,Travel_Rarely
+1552,QA Tester,IT,2,Non-Travel
+1948,Research Scientist,IT,1,Non-Travel
+1737,Software Engineer,IT,2,Non-Travel
+1774,Process Associate,Operations,2,Non-Travel
+1642,Human Resources,HR,2,Travel_Frequently
+1972,Human Resources,HR,1,Travel_Frequently
+1837,Research Director,IT,4,Travel_Frequently
+1932,Research Scientist,IT,2,Travel_Frequently
+1594,Software Engineer,IT,2,Travel_Frequently
+1606,QA Tester,IT,4,Travel_Frequently
+1547,QA Tester,IT,3,Travel_Frequently
+2049,QA Tester,IT,2,Travel_Frequently
+1704,Research Scientist,IT,1,Travel_Frequently
+1496,IT Director,IT,3,Travel_Frequently
+1539,Research Director,IT,4,Travel_Frequently
+1753,QA Tester,IT,2,Travel_Frequently
+1927,Process Associate,Operations,2,Travel_Frequently
+1973,Manager,HR,5,Travel_Rarely
+1460,QA Tester,IT,3,Travel_Rarely
+1789,Research Director,IT,5,Travel_Rarely
+1998,Research Scientist,IT,2,Travel_Rarely
+1992,Software Engineer,IT,1,Travel_Rarely
+1448,Research Scientist,IT,1,Travel_Rarely
+1501,QA Tester,IT,2,Travel_Rarely
+1766,QA Tester,IT,2,Travel_Rarely
+1549,Software Engineer,IT,2,Travel_Rarely
+2053,Software Engineer,IT,2,Travel_Rarely
+1790,QA Tester,IT,3,Travel_Rarely
+2003,Software Engineer,IT,1,Travel_Rarely
+1465,IT Director,IT,3,Travel_Rarely
+1755,Research Scientist,IT,1,Travel_Rarely
+1586,Software Engineer,IT,1,Travel_Rarely
+2020,Research Scientist,IT,1,Travel_Rarely
+1515,QA Tester,IT,2,Travel_Rarely
+1669,Process Associate,Operations,2,Travel_Rarely
+1732,Process Associate,Operations,3,Travel_Rarely
+1943,Process Associate,Operations,2,Travel_Rarely
+1535,Process Associate,Operations,3,Travel_Rarely
+1591,Manager,Operations,5,Travel_Rarely
+1706,Process Associate,Operations,2,Travel_Rarely
+1882,Process Associate,Operations,3,Travel_Rarely
+2021,Process Associate II,Operations,1,Travel_Rarely
+1678,Process Associate,Operations,3,Travel_Rarely
+1979,Research Director,IT,3,Non-Travel
+1845,Process Associate,Operations,2,Non-Travel
+1520,Manager,IT,4,Travel_Frequently
+1675,Software Engineer,IT,1,Travel_Frequently
+1736,IT Director,IT,2,Travel_Frequently
+1744,Human Resources,HR,3,Travel_Rarely
+1622,IT Director,IT,2,Travel_Rarely
+1581,Research Scientist,IT,1,Travel_Rarely
+2034,IT Director,IT,4,Travel_Rarely
+1441,Research Scientist,IT,1,Travel_Rarely
+1665,Manager,IT,4,Travel_Rarely
+1509,Software Engineer,IT,2,Travel_Rarely
+1834,Research Scientist,IT,1,Travel_Rarely
+1864,Process Associate II,Operations,2,Travel_Rarely
+1909,Process Associate,Operations,2,Travel_Rarely
+1554,Process Associate II,Operations,1,Travel_Rarely
+2035,Process Associate,Operations,2,Travel_Rarely
+2026,QA Tester,IT,2,Non-Travel
+1949,Software Engineer,IT,1,Non-Travel
+1712,QA Tester,IT,3,Non-Travel
+1854,Research Scientist,IT,1,Non-Travel
+1693,Software Engineer,IT,1,Non-Travel
+1824,Manager,Operations,4,Non-Travel
+2036,Process Associate,Operations,2,Non-Travel
+1890,Human Resources,HR,2,Travel_Frequently
+1970,QA Tester,IT,2,Travel_Frequently
+1956,Research Scientist,IT,2,Travel_Frequently
+1644,Manager,IT,4,Travel_Frequently
+1849,Process Associate,Operations,2,Travel_Frequently
+1499,Human Resources,HR,1,Travel_Rarely
+1697,QA Tester,IT,3,Travel_Rarely
+1664,QA Tester,IT,2,Travel_Rarely
+1772,Software Engineer,IT,1,Travel_Rarely
+1768,Software Engineer,IT,1,Travel_Rarely
+1654,IT Director,IT,2,Travel_Rarely
+1936,IT Director,IT,2,Travel_Rarely
+1873,Research Scientist,IT,1,Travel_Rarely
+1483,Research Scientist,IT,2,Travel_Rarely
+1666,Research Director,IT,4,Travel_Rarely
+1999,Research Scientist,IT,1,Travel_Rarely
+1546,Research Scientist,IT,1,Travel_Rarely
+1993,QA Tester,IT,3,Travel_Rarely
+1800,Research Director,IT,3,Travel_Rarely
+1516,Manager,IT,3,Travel_Rarely
+1966,IT Director,IT,2,Travel_Rarely
+1595,Manager,IT,5,Travel_Rarely
+1578,Manager,Operations,5,Travel_Rarely
+1823,Process Associate,Operations,2,Travel_Rarely
+1950,Process Associate,Operations,3,Travel_Rarely
+1775,IT Director,IT,4,Non-Travel
+1681,Process Associate,Operations,2,Non-Travel
+2017,Research Director,IT,3,Travel_Rarely
+1423,Research Director,IT,5,Travel_Rarely
+1847,Research Scientist,IT,2,Travel_Rarely
+2018,Process Associate,Operations,2,Travel_Rarely
+1835,Process Associate II,Operations,2,Travel_Rarely
+1550,Manager,HR,4,Travel_Rarely
+2064,IT Director,IT,2,Travel_Rarely
+1885,Research Scientist,IT,2,Travel_Rarely
+1541,Process Associate II,Operations,1,Travel_Rarely
+1556,Process Associate II,Operations,1,Travel_Rarely
+1747,Human Resources,HR,1,Travel_Frequently
+1944,Human Resources,HR,1,Travel_Frequently
+1459,IT Director,IT,3,Travel_Frequently
+1537,Research Scientist,IT,1,Travel_Frequently
+1487,Process Associate,Operations,2,Travel_Frequently
+1427,Process Associate II,Operations,1,Travel_Frequently
+1467,Human Resources,HR,1,Travel_Rarely
+1572,IT Director,IT,3,Travel_Rarely
+1433,Research Scientist,IT,1,Travel_Rarely
+1752,Process Associate II,Operations,1,Travel_Rarely
+1807,Software Engineer,IT,2,Travel_Frequently
+1504,Software Engineer,IT,1,Travel_Frequently
+2044,Process Associate,Operations,2,Travel_Frequently
+1716,Process Associate,Operations,4,Travel_Frequently
+1486,Process Associate II,Operations,1,Travel_Frequently
+2023,Process Associate II,Operations,1,Travel_Frequently
+1928,Process Associate II,Operations,1,Travel_Frequently
+1842,Human Resources,HR,1,Travel_Rarely
+1714,Human Resources,HR,1,Travel_Rarely
+1960,Software Engineer,IT,1,Travel_Rarely
+2032,Software Engineer,IT,1,Travel_Rarely
+1573,IT Director,IT,2,Travel_Rarely
+1522,Research Scientist,IT,1,Travel_Rarely
+1907,Software Engineer,IT,1,Travel_Rarely
+1534,Software Engineer,IT,1,Travel_Rarely
+1809,IT Director,IT,2,Travel_Rarely
+1692,Software Engineer,IT,1,Travel_Rarely
+1457,Process Associate,Operations,3,Travel_Rarely
+1439,Process Associate II,Operations,1,Travel_Rarely
+1639,Process Associate,Operations,3,Travel_Rarely
+1562,Process Associate,Operations,2,Travel_Rarely
+1761,Process Associate,Operations,3,Travel_Rarely
+1734,Process Associate,Operations,2,Travel_Rarely
+1780,Process Associate II,Operations,1,Travel_Rarely
+1876,Process Associate II,Operations,1,Travel_Rarely
+1939,Research Scientist,IT,1,Travel_Frequently
+1421,QA Tester,IT,3,Travel_Frequently
+1691,Process Associate II,Operations,1,Travel_Frequently
+1624,Process Associate II,Operations,1,Travel_Frequently
+1818,Human Resources,HR,1,Travel_Rarely
+1569,Software Engineer,IT,1,Travel_Rarely
+1783,Software Engineer,IT,1,Travel_Rarely
+1933,Process Associate,Operations,2,Travel_Rarely
+1792,Research Scientist,IT,1,Travel_Frequently
+1464,Software Engineer,IT,1,Travel_Frequently
+1767,Research Scientist,IT,1,Travel_Frequently
+1494,Software Engineer,IT,1,Travel_Frequently
+1967,Process Associate,Operations,2,Travel_Frequently
+1844,Human Resources,HR,1,Travel_Rarely
+2027,Research Scientist,IT,1,Travel_Rarely
+1604,Software Engineer,IT,1,Travel_Rarely
+1649,Software Engineer,IT,1,Travel_Rarely
+1684,Software Engineer,IT,1,Travel_Rarely
+2055,Process Associate,Operations,3,Travel_Rarely
+1645,Process Associate,Operations,2,Travel_Rarely
+1733,Process Associate,Operations,2,Travel_Rarely
+1968,Process Associate,Operations,3,Travel_Rarely
+1862,Process Associate,Operations,2,Travel_Rarely
+1797,Process Associate,Operations,2,Travel_Rarely
+1821,QA Tester,IT,2,Travel_Rarely
+1869,Process Associate,Operations,3,Travel_Rarely
+1420,Software Engineer,IT,2,Travel_Frequently
+1458,Software Engineer,IT,1,Non-Travel
+1489,Process Associate,Operations,2,Travel_Rarely
+1758,Process Associate,Operations,3,Travel_Rarely
+1905,Research Scientist,IT,1,Non-Travel
+1868,Research Scientist,IT,1,Travel_Frequently
+1667,Process Associate,Operations,2,Travel_Frequently
+1878,Research Scientist,IT,1,Travel_Rarely
+1702,Process Associate II,Operations,1,Travel_Rarely
